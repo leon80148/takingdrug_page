@@ -84,7 +84,8 @@ a {
   background: var(--sage);
   color: #fff;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 16px;
+  letter-spacing: -1px;
   display: grid;
   place-items: center;
   box-shadow: 0 10px 24px rgba(93, 129, 66, 0.25);
