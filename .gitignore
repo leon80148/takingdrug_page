@@ -8,3 +8,12 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Static site build caches
+.cache/
+.sass-cache/
+coverage/
+
+# Local temp files
+*.tmp
+*.bak
